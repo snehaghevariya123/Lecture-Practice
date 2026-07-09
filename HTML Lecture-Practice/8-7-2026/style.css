@@ -1,0 +1,11 @@
+.back_text{
+  font-size: 200px;
+  font-weight: bold;
+  background-image: url('back.jpg');
+  color: transparent;
+  background-clip: text;
+  background-size: cover;
+  background-position: bottom ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
