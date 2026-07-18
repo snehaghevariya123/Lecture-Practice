@@ -1,0 +1,30 @@
+h1{
+    display: inline;
+}
+
+span{
+    display: block;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    display: inline-block;
+}
+
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    display: inline-block;
+    display: none;
+}
+
+p{
+.chewy-regular {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+}
